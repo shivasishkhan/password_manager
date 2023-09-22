@@ -4,4 +4,4 @@
 ## Credits:
 ### I'm Shivasish Khan, representing this project along with my group members Aishiki Mondal, Aniket Ghosh, and MD Faisal Ansari.
 ## Preview:
-<img src="A:\password_manager\password_manager\Preview.png" alt=""/>
+![Preview](https://github.com/shivasishkhan/password_manager/assets/145754397/30f14962-be75-4993-a5a0-7dd6783caf56)
